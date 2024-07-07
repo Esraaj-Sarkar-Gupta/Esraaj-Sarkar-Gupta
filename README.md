@@ -3,7 +3,7 @@
 I'm Esraaj Sarkar Gupta, a first year engineering student.
 
 I am familiar with 
-- Python ``(With libraries such as SciPy, MatPlotLib and NumPy)``
+- Python `(With libraries such as SciPy, MatPlotLib and NumPy)`
 - Javascript
 - C / C++
 - MATLAB
