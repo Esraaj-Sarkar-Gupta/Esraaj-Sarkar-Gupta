@@ -13,6 +13,6 @@ The majority of my projects involve scientific compuation using Python or C. Som
 
 I don't have a great deal of experience with web development. Although I do know a share deal of Javascript, CSS and HTML, my skills in regards to web development is no where near the modern standard. I'd much rather stick to my python. 
 
-I use Sublime Text for javascript, Spyder for python and VS Code for everything else, and even so, NotePad and nano are my favourite text editors. 
+I use Sublime Text for javascript, Spyder for python and VS Code for everything else.
 
 
