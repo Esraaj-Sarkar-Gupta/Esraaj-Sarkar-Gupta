@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Esraaj Sarkar Gupta, a first year engineering student. I started coding in 2020 which makes a great deal of sense since computers became such a massive part of our lives back then. I would spend my time during online classes teaching myself how to code instead of paying attention to class. I learnt my first bit of javascript trying to mess with a site I used to have online classes on. 
+I'm Esraaj Sarkar Gupta, a freshman engineering student. I started coding in 2020 given that computers became such a massive part of our lives back then. I would spend my time during online classes teaching myself how to code instead of paying attention to class. I learnt my first bit of javascript trying to mess with a site I used to have online classes on. 
 
 I am familiar with 
 - Python (With libraries such as SciPy, MatPlotLib and NumPy)
