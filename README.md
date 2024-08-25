@@ -9,6 +9,7 @@ I am familiar with
 - MATLAB
 - LaTex
 - PHP
+- Kotlin
 
 The majority of my projects involve scientific compuation using Python or C. Sometimes I use MATLAB when I get tired of python, but somehow that never works out too well for me. Despite its lax syntax MATLAB drives me nuts. 
 
