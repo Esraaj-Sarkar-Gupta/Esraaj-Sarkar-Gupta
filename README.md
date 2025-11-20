@@ -12,10 +12,6 @@ I am most familiar with Python (With libraries such as SciPy, MatPlotLib and Num
 
 I use the markup languages LaTeX and HTML
 
-The majority of my projects involve scientific compuation using Python or C. Sometimes I use MATLAB when I get tired of python, but somehow that never works out too well for me. Despite its lax syntax MATLAB drives me nuts. 
-
-I don't have a great deal of experience with web development. Although I do know a share deal of Javascript, CSS and HTML along with a little PHP, my skills in regards to web development is no where near the modern standard. I'd much rather stick to my python. 
-
-I use Sublime Text for javascript, Spyder for python and VS Code for everything else.
+The majority of my projects involve scientific computation. Recently I have been working on projects involving cosmological model testing, along with low level bare metal programming for microcontrollers.
 
 
